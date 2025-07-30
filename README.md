@@ -19,6 +19,6 @@ password_strength_web/
 
 ├── templates/
     
-    └── index.html       
+   └── index.html       
 
 ├── README.md            
