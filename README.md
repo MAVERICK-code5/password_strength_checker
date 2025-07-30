@@ -18,7 +18,7 @@ password_strength_web/
 ├── app.py
 
 ├── templates/
-  
- └── index.html       
+    
+    └── index.html       
 
 ├── README.md            
