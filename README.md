@@ -14,7 +14,10 @@ Suggestions for improvement
 Score (0–7 scale)
 
 password_strength_web/
-├── app.py               
+
+├── app.py
+
 ├── templates/
 │   └── index.html       
+
 ├── README.md            
